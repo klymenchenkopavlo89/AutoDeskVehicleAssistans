@@ -38,6 +38,7 @@ namespace ToyotaVehicleSystemWPF
             }
 
             SelectVehicleText.Visibility = Visibility.Collapsed;
+            DefaultVehicleImage.Visibility = Visibility.Collapsed;
 
             ModelTextBlock.Text = "Model: " + selectedVehicle.Model;
             YearTextBlock.Text = "Year: " + selectedVehicle.Year;
@@ -46,14 +47,24 @@ namespace ToyotaVehicleSystemWPF
 
             VehicleImage.Visibility = Visibility.Collapsed;
 
-            if (selectedModel.Equals("Prius",
-                StringComparison.OrdinalIgnoreCase))
+            if (selectedModel.Equals("Prius", StringComparison.OrdinalIgnoreCase))
             {
                 VehicleImage.Source = new BitmapImage(
                     new Uri("pack://application:,,,/Images/Prius.png"));
-
-                VehicleImage.Visibility = Visibility.Visible;
             }
+            else if (selectedModel.Equals("Corolla", StringComparison.OrdinalIgnoreCase))
+            {
+                VehicleImage.Source = new BitmapImage(
+                    new Uri("pack://application:,,,/Images/Corolla.png"));
+            }
+            else if (selectedModel.Equals("RAV4", StringComparison.OrdinalIgnoreCase))
+            {
+                VehicleImage.Source = new BitmapImage(
+                    new Uri("pack://application:,,,/Images/RAV4.png"));
+            }
+
+            VehicleImage.Visibility = Visibility.Visible;
+            
 
             MoreInformationButton.Visibility = Visibility.Visible;
         }

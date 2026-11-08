@@ -116,12 +116,21 @@
                     <!-- NO VEHICLE SELECTED -->
 
                     <TextBlock x:Name="SelectVehicleText"
-                               Text="SELECT A VEHICLE"
-                               FontSize="18"
-                               Foreground="#888888"
-                               HorizontalAlignment="Center"
-                               VerticalAlignment="Center"
-                               Margin="0,60,0,60"/>
+           Text="CHOOSE A MODEL"
+           FontSize="24"
+           FontWeight="Bold"
+           Foreground="#E60012"
+           HorizontalAlignment="Center"
+           VerticalAlignment="Center"
+           Margin="0,35,0,20"/>
+
+                    <Image x:Name="DefaultVehicleImage"
+       Source="/Images/ArrowModelsMenu.png"
+       Width="280"
+       Height="120"
+       Stretch="Uniform"
+       HorizontalAlignment="Center"
+       Margin="0,0,0,20"/>
 
                     <!-- VEHICLE IMAGE -->
 

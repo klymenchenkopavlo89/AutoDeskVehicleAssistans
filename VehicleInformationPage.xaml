@@ -17,7 +17,6 @@
         </Grid.RowDefinitions>
 
         <!-- TITLE -->
-
         <StackPanel Grid.Row="0"
                     HorizontalAlignment="Center"
                     Margin="0,35,0,30">
@@ -33,11 +32,9 @@
                        Foreground="#E60012"
                        HorizontalAlignment="Center"
                        Margin="0,8,0,0"/>
-
         </StackPanel>
 
         <!-- VEHICLE DETAILS -->
-
         <Border Grid.Row="1"
                 Background="#252525"
                 BorderBrush="#444444"
@@ -46,57 +43,73 @@
                 Margin="60,0,60,20"
                 Padding="35">
 
-            <StackPanel VerticalAlignment="Center">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="1.4*"/>
+                </Grid.ColumnDefinitions>
 
-                <TextBlock Text="VEHICLE VIN"
-                           FontSize="14"
-                           FontWeight="SemiBold"
-                           Foreground="#E60012"
-                           Margin="0,0,0,8"/>
+                <!-- LEFT: VEHICLE INFORMATION -->
+                <StackPanel Grid.Column="0"
+                            VerticalAlignment="Center"
+                            Margin="0,0,25,0">
 
-                <TextBlock x:Name="VinTextBlock"
-                           FontSize="20"
-                           Foreground="White"
-                           Margin="0,0,0,20"/>
+                    <TextBlock Text="VEHICLE VIN"
+                               FontSize="14"
+                               FontWeight="SemiBold"
+                               Foreground="#E60012"
+                               Margin="0,0,0,8"/>
 
-                <TextBlock Text="MODEL"
-                           FontSize="14"
-                           FontWeight="SemiBold"
-                           Foreground="#E60012"
-                           Margin="0,0,0,8"/>
+                    <TextBlock x:Name="VinTextBlock"
+                               FontSize="20"
+                               Foreground="White"
+                               Margin="0,0,0,20"/>
 
-                <TextBlock x:Name="ModelTextBlock"
-                           FontSize="20"
-                           Foreground="White"
-                           Margin="0,0,0,20"/>
+                    <TextBlock Text="MODEL"
+                               FontSize="14"
+                               FontWeight="SemiBold"
+                               Foreground="#E60012"
+                               Margin="0,0,0,8"/>
 
-                <TextBlock Text="YEAR"
-                           FontSize="14"
-                           FontWeight="SemiBold"
-                           Foreground="#E60012"
-                           Margin="0,0,0,8"/>
+                    <TextBlock x:Name="ModelTextBlock"
+                               FontSize="20"
+                               Foreground="White"
+                               Margin="0,0,0,20"/>
 
-                <TextBlock x:Name="YearTextBlock"
-                           FontSize="20"
-                           Foreground="White"
-                           Margin="0,0,0,20"/>
+                    <TextBlock Text="YEAR"
+                               FontSize="14"
+                               FontWeight="SemiBold"
+                               Foreground="#E60012"
+                               Margin="0,0,0,8"/>
 
-                <TextBlock Text="ENGINE"
-                           FontSize="14"
-                           FontWeight="SemiBold"
-                           Foreground="#E60012"
-                           Margin="0,0,0,8"/>
+                    <TextBlock x:Name="YearTextBlock"
+                               FontSize="20"
+                               Foreground="White"
+                               Margin="0,0,0,20"/>
 
-                <TextBlock x:Name="EngineTextBlock"
-                           FontSize="20"
-                           Foreground="White"/>
+                    <TextBlock Text="ENGINE"
+                               FontSize="14"
+                               FontWeight="SemiBold"
+                               Foreground="#E60012"
+                               Margin="0,0,0,8"/>
 
-            </StackPanel>
+                    <TextBlock x:Name="EngineTextBlock"
+                               FontSize="20"
+                               Foreground="White"/>
+                </StackPanel>
 
+                <!-- RIGHT: VEHICLE IMAGE -->
+                <Image x:Name="VehicleImage"
+                       Grid.Column="1"
+                       Width="500"
+                       Height="300"
+                       Stretch="Uniform"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"/>
+            </Grid>
         </Border>
 
         <!-- ACTION BUTTONS -->
-
         <StackPanel Grid.Row="2"
                     Orientation="Horizontal"
                     HorizontalAlignment="Center"
@@ -138,7 +151,6 @@
                     BorderThickness="1"
                     Cursor="Hand"
                     Click="BackButton_Click"/>
-
         </StackPanel>
 
     </Grid>
