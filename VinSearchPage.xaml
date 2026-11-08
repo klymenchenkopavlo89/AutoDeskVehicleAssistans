@@ -1,0 +1,85 @@
+﻿<Page x:Class="ToyotaVehicleSystemWPF.VinSearchPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:ToyotaVehicleSystemWPF"
+      mc:Ignorable="d"
+      d:DesignHeight="600"
+      d:DesignWidth="1000"
+      Title="Search by VIN">
+
+    <Grid Background="#1E1E1E">
+
+        <StackPanel HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                    Width="420">
+
+            <!-- SEARCH IMAGE -->
+
+            <Image Source="/Images/Lupa.png"
+                   Width="90"
+                   Height="90"
+                   Stretch="Uniform"
+                   HorizontalAlignment="Center"
+                   Margin="0,0,0,15"/>
+
+            <!-- TITLE -->
+
+            <TextBlock Text="SEARCH BY VIN"
+                       FontSize="32"
+                       FontWeight="Bold"
+                       Foreground="White"
+                       HorizontalAlignment="Center"
+                       Margin="0,0,0,8"/>
+
+            <TextBlock Text="Vehicle Identification Number"
+                       FontSize="15"
+                       Foreground="#BDBDBD"
+                       HorizontalAlignment="Center"
+                       Margin="0,0,0,30"/>
+
+            <!-- VIN INPUT -->
+
+            <TextBox x:Name="VinTextBox"
+                     Height="50"
+                     FontSize="17"
+                     Foreground="White"
+                     Background="#333333"
+                     BorderBrush="#555555"
+                     BorderThickness="1"
+                     Padding="12"
+                     Margin="0,0,0,18"/>
+
+            <!-- SEARCH -->
+
+            <Button Content="SEARCH"
+                    Height="55"
+                    FontSize="17"
+                    FontWeight="SemiBold"
+                    Foreground="White"
+                    Background="#E60012"
+                    BorderThickness="0"
+                    Margin="0,0,0,15"
+                    Cursor="Hand"
+                    Click="SearchButton_Click"/>
+
+            <!-- BACK -->
+
+            <Button Content="BACK"
+        Height="42"
+        Width="130"
+        FontSize="14"
+        FontWeight="SemiBold"
+        Foreground="White"
+        Background="#333333"
+        BorderBrush="#555555"
+        BorderThickness="1"
+        HorizontalAlignment="Center"
+        Cursor="Hand"
+        Click="BackButton_Click"/>
+
+        </StackPanel>
+
+    </Grid>
+</Page>

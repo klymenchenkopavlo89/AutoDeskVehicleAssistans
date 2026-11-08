@@ -1,0 +1,505 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\vehicleinformationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|solutionrelative:vehicleinformationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\serviceinformationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|solutionrelative:serviceinformationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\partsinformationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|solutionrelative:partsinformationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|c:\\users\\user\\source\\repos\\toyotavehiclesystemwpf\\mainmenupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|solutionrelative:mainmenupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\mainmenupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|solutionrelative:mainmenupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|c:\\users\\user\\source\\repos\\toyotavehiclesystemwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|solutionrelative:loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|c:\\users\\user\\source\\repos\\toyotavehiclesystemwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|c:\\users\\user\\source\\repos\\toyotavehiclesystemwpf\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|solutionrelative:loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|c:\\users\\user\\source\\repos\\toyotavehiclesystemwpf\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|solutionrelative:loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|c:\\users\\user\\source\\repos\\toyotavehiclesystemwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|solutionrelative:loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\modelsearchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|solutionrelative:modelsearchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\modelsearchpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|solutionrelative:modelsearchpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\vehicleinformationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|solutionrelative:vehicleinformationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\vinsearchpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|solutionrelative:vinsearchpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\modelsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|solutionrelative:modelsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\vinsearchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|solutionrelative:vinsearchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\serviceinformationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|solutionrelative:serviceinformationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\partsinformationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|solutionrelative:partsinformationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\vehicleinformationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|solutionrelative:vehicleinformationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\vehicleinformationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|solutionrelative:vehicleinformationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\partsinformationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|solutionrelative:partsinformationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\partsinformationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|solutionrelative:partsinformationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\serviceinformationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|solutionrelative:serviceinformationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\serviceinformationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|solutionrelative:serviceinformationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\partsdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|solutionrelative:partsdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\vinsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|solutionrelative:vinsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\partsinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D550AEB-4213-43C9-95E0-7B8830377A7C}|ToyotaVehicleSystemWPF.csproj|solutionrelative:partsinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenuPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\MainMenuPage.xaml",
+              "RelativeDocumentMoniker": "MainMenuPage.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\MainMenuPage.xaml",
+              "RelativeToolTip": "MainMenuPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-08T16:26:22.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T17:12:15.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PartsInformationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\PartsInformationPage.xaml",
+              "RelativeDocumentMoniker": "PartsInformationPage.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\PartsInformationPage.xaml",
+              "RelativeToolTip": "PartsInformationPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-06T20:24:11.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceInformationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\ServiceInformationPage.xaml",
+              "RelativeDocumentMoniker": "ServiceInformationPage.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\ServiceInformationPage.xaml",
+              "RelativeToolTip": "ServiceInformationPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-06T20:20:55.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehicleInformationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\VehicleInformationPage.xaml",
+              "RelativeDocumentMoniker": "VehicleInformationPage.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\VehicleInformationPage.xaml",
+              "RelativeToolTip": "VehicleInformationPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-06T19:53:30.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-06T17:12:15.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-08T15:33:13.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\LoginWindow.xaml",
+              "RelativeToolTip": "LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-08T16:16:53.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T16:17:19.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PartsInformationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\PartsInformationPage.xaml.cs",
+              "RelativeDocumentMoniker": "PartsInformationPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\PartsInformationPage.xaml.cs",
+              "RelativeToolTip": "PartsInformationPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T20:28:05.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VehicleInformationWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\VehicleInformationWindow.xaml",
+              "RelativeDocumentMoniker": "VehicleInformationWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\VehicleInformationWindow.xaml",
+              "RelativeToolTip": "VehicleInformationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-06T18:18:19.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ServiceInformationWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\ServiceInformationWindow.xaml",
+              "RelativeDocumentMoniker": "ServiceInformationWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\ServiceInformationWindow.xaml",
+              "RelativeToolTip": "ServiceInformationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-06T18:42:51.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServiceInformationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\ServiceInformationPage.xaml.cs",
+              "RelativeDocumentMoniker": "ServiceInformationPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\ServiceInformationPage.xaml.cs",
+              "RelativeToolTip": "ServiceInformationPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T20:22:05.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainMenuPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\MainMenuPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainMenuPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\MainMenuPage.xaml.cs",
+              "RelativeToolTip": "MainMenuPage.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T19:40:38.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "LoginPage.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\LoginPage.xaml",
+              "RelativeToolTip": "LoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-08T16:18:22.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\LoginPage.xaml.cs",
+              "RelativeToolTip": "LoginPage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T16:19:23.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ModelSearchPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\ModelSearchPage.xaml.cs",
+              "RelativeDocumentMoniker": "ModelSearchPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\ModelSearchPage.xaml.cs",
+              "RelativeToolTip": "ModelSearchPage.xaml.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAowE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T20:48:36.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VinSearchPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\VinSearchPage.xaml.cs",
+              "RelativeDocumentMoniker": "VinSearchPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\VinSearchPage.xaml.cs",
+              "RelativeToolTip": "VinSearchPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T19:35:19.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VehicleInformationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\VehicleInformationPage.xaml.cs",
+              "RelativeDocumentMoniker": "VehicleInformationPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\VehicleInformationPage.xaml.cs",
+              "RelativeToolTip": "VehicleInformationPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T19:57:11.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ModelSearch.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\ModelSearch.cs",
+              "RelativeDocumentMoniker": "ModelSearch.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\ModelSearch.cs",
+              "RelativeToolTip": "ModelSearch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T17:57:41.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ModelSearchPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\ModelSearchPage.xaml",
+              "RelativeDocumentMoniker": "ModelSearchPage.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\ModelSearchPage.xaml",
+              "RelativeToolTip": "ModelSearchPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-06T20:46:47.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VinSearchPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\VinSearchPage.xaml",
+              "RelativeDocumentMoniker": "VinSearchPage.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\VinSearchPage.xaml",
+              "RelativeToolTip": "VinSearchPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-06T19:34:33.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VehicleInformationWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\VehicleInformationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "VehicleInformationWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\VehicleInformationWindow.xaml.cs",
+              "RelativeToolTip": "VehicleInformationWindow.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T18:23:50.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PartsInformationWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\PartsInformationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PartsInformationWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\PartsInformationWindow.xaml.cs",
+              "RelativeToolTip": "PartsInformationWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T18:59:18.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PartsDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\PartsDatabase.cs",
+              "RelativeDocumentMoniker": "PartsDatabase.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\PartsDatabase.cs",
+              "RelativeToolTip": "PartsDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T18:35:46.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PartsInformationWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\PartsInformationWindow.xaml",
+              "RelativeDocumentMoniker": "PartsInformationWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\PartsInformationWindow.xaml",
+              "RelativeToolTip": "PartsInformationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-06T18:57:29.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ServiceInformationWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\ServiceInformationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ServiceInformationWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\ServiceInformationWindow.xaml.cs",
+              "RelativeToolTip": "ServiceInformationWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T18:49:49.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T18:28:59.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PartsInformation.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\PartsInformation.cs",
+              "RelativeDocumentMoniker": "PartsInformation.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\PartsInformation.cs",
+              "RelativeToolTip": "PartsInformation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T17:57:55.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "VinSearch.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\VinSearch.cs",
+              "RelativeDocumentMoniker": "VinSearch.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ToyotaVehicleSystemWPF\\VinSearch.cs",
+              "RelativeToolTip": "VinSearch.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T17:59:14.365Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

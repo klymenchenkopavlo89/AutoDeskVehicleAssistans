@@ -1,0 +1,36 @@
+﻿<Window x:Class="ToyotaVehicleSystemWPF.PartsInformationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ToyotaVehicleSystemWPF"
+        mc:Ignorable="d"
+        Title="PartsInformationWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Margin="40">
+
+            <TextBlock Text="PARTS INFORMATION"
+                   FontSize="28"
+                   FontWeight="Bold"
+                   Margin="0,0,0,30"/>
+
+            <TextBlock Text="Oil Filter: Genuine Toyota"
+                   FontSize="18"
+                   Margin="0,0,0,10"/>
+
+            <TextBlock Text="Air Filter: Genuine Toyota"
+                   FontSize="18"
+                   Margin="0,0,0,10"/>
+
+            <TextBlock Text="Engine Oil: 5W-30"
+                   FontSize="18"
+                   Margin="0,0,0,30"/>
+
+            <Button Content="BACK"
+                Width="150"
+                Height="45"
+                Click="BackButton_Click"/>
+
+        </StackPanel>
+    </Grid>
+</Window>

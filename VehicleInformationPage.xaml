@@ -1,0 +1,145 @@
+﻿<Page x:Class="ToyotaVehicleSystemWPF.VehicleInformationPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      mc:Ignorable="d"
+      d:DesignHeight="600"
+      d:DesignWidth="1000"
+      Title="Vehicle Information">
+
+    <Grid Background="#1E1E1E">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- TITLE -->
+
+        <StackPanel Grid.Row="0"
+                    HorizontalAlignment="Center"
+                    Margin="0,35,0,30">
+
+            <TextBlock Text="VEHICLE INFORMATION"
+                       FontSize="32"
+                       FontWeight="Bold"
+                       Foreground="White"
+                       HorizontalAlignment="Center"/>
+
+            <TextBlock Text="Toyota Vehicle Details"
+                       FontSize="16"
+                       Foreground="#E60012"
+                       HorizontalAlignment="Center"
+                       Margin="0,8,0,0"/>
+
+        </StackPanel>
+
+        <!-- VEHICLE DETAILS -->
+
+        <Border Grid.Row="1"
+                Background="#252525"
+                BorderBrush="#444444"
+                BorderThickness="1"
+                CornerRadius="8"
+                Margin="60,0,60,20"
+                Padding="35">
+
+            <StackPanel VerticalAlignment="Center">
+
+                <TextBlock Text="VEHICLE VIN"
+                           FontSize="14"
+                           FontWeight="SemiBold"
+                           Foreground="#E60012"
+                           Margin="0,0,0,8"/>
+
+                <TextBlock x:Name="VinTextBlock"
+                           FontSize="20"
+                           Foreground="White"
+                           Margin="0,0,0,20"/>
+
+                <TextBlock Text="MODEL"
+                           FontSize="14"
+                           FontWeight="SemiBold"
+                           Foreground="#E60012"
+                           Margin="0,0,0,8"/>
+
+                <TextBlock x:Name="ModelTextBlock"
+                           FontSize="20"
+                           Foreground="White"
+                           Margin="0,0,0,20"/>
+
+                <TextBlock Text="YEAR"
+                           FontSize="14"
+                           FontWeight="SemiBold"
+                           Foreground="#E60012"
+                           Margin="0,0,0,8"/>
+
+                <TextBlock x:Name="YearTextBlock"
+                           FontSize="20"
+                           Foreground="White"
+                           Margin="0,0,0,20"/>
+
+                <TextBlock Text="ENGINE"
+                           FontSize="14"
+                           FontWeight="SemiBold"
+                           Foreground="#E60012"
+                           Margin="0,0,0,8"/>
+
+                <TextBlock x:Name="EngineTextBlock"
+                           FontSize="20"
+                           Foreground="White"/>
+
+            </StackPanel>
+
+        </Border>
+
+        <!-- ACTION BUTTONS -->
+
+        <StackPanel Grid.Row="2"
+                    Orientation="Horizontal"
+                    HorizontalAlignment="Center"
+                    Margin="0,10,0,30">
+
+            <Button Content="SERVICE"
+                    Width="150"
+                    Height="48"
+                    Margin="0,0,15,0"
+                    FontSize="14"
+                    FontWeight="SemiBold"
+                    Foreground="White"
+                    Background="#E60012"
+                    BorderThickness="0"
+                    Cursor="Hand"
+                    Click="ServiceButton_Click"/>
+
+            <Button Content="PARTS"
+                    Width="150"
+                    Height="48"
+                    Margin="0,0,15,0"
+                    FontSize="14"
+                    FontWeight="SemiBold"
+                    Foreground="White"
+                    Background="#333333"
+                    BorderBrush="#555555"
+                    BorderThickness="1"
+                    Cursor="Hand"
+                    Click="PartsButton_Click"/>
+
+            <Button Content="BACK"
+                    Width="150"
+                    Height="48"
+                    FontSize="14"
+                    FontWeight="SemiBold"
+                    Foreground="White"
+                    Background="#333333"
+                    BorderBrush="#555555"
+                    BorderThickness="1"
+                    Cursor="Hand"
+                    Click="BackButton_Click"/>
+
+        </StackPanel>
+
+    </Grid>
+</Page>

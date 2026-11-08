@@ -1,0 +1,104 @@
+﻿<Page x:Class="ToyotaVehicleSystemWPF.MainMenuPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:ToyotaVehicleSystemWPF"
+      mc:Ignorable="d"
+      d:DesignHeight="600"
+      d:DesignWidth="1000"
+      Title="Toyota Vehicle System">
+
+    <Grid Background="#1E1E1E">
+
+        <StackPanel HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                    Width="420">
+
+            <Image Source="/Images/TLogo.png"
+           Width="250"
+           Height="250"
+           Stretch="Uniform"
+           HorizontalAlignment="Center"
+           Margin="0,0,0,15"/>
+
+            <!-- TITLE -->
+
+            <TextBlock Text="TOYOTA"
+                       FontSize="42"
+                       FontWeight="Bold"
+                       Foreground="White"
+                       HorizontalAlignment="Center"
+                       Margin="0,0,0,5"/>
+
+            <TextBlock Text="VEHICLE SYSTEM"
+                       FontSize="24"
+                       FontWeight="SemiBold"
+                       Foreground="#E60012"
+                       HorizontalAlignment="Center"
+                       Margin="0,0,0,10"/>
+
+            <TextBlock Text="Vehicle Information &amp; Diagnostic System"
+                       FontSize="15"
+                       Foreground="#BDBDBD"
+                       HorizontalAlignment="Center"
+                       Margin="0,0,0,45"/>
+
+
+            <!-- VIN BUTTON -->
+
+            <Button Content="SEARCH BY VIN"
+                    Height="58"
+                    FontSize="17"
+                    FontWeight="SemiBold"
+                    Foreground="White"
+                    Background="#E60012"
+                    BorderThickness="0"
+                    Margin="0,0,0,18"
+                    Cursor="Hand"
+                    Click="VinSearchButton_Click"/>
+
+
+            <!-- MODEL BUTTON -->
+
+            <Button Content="SEARCH BY MODEL"
+                    Height="58"
+                    FontSize="17"
+                    FontWeight="SemiBold"
+                    Foreground="White"
+                    Background="#333333"
+                    BorderBrush="#555555"
+                    BorderThickness="1"
+                    Margin="0,0,0,18"
+                    Cursor="Hand"
+                    Click="ModelSearchButton_Click"/>
+
+
+            <!-- EXIT -->
+
+            <Button Content="EXIT"
+        Width="130"
+        Height="42"
+        FontSize="14"
+        FontWeight="SemiBold"
+        Foreground="#CCCCCC"
+        Background="#333333"
+        BorderBrush="#555555"
+        BorderThickness="1"
+        HorizontalAlignment="Center"
+        Cursor="Hand"
+        Click="ExitButton_Click"/>
+
+
+            <!-- VERSION -->
+
+            <TextBlock Text="Prototype • Version 1.0"
+                       FontSize="12"
+                       Foreground="#777777"
+                       HorizontalAlignment="Center"
+                       Margin="0,35,0,0"/>
+
+        </StackPanel>
+
+    </Grid>
+</Page>
